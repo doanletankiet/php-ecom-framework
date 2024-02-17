@@ -1,0 +1,23 @@
+{
+  "name": "php-ecomm-framework",
+  "version": "1.0.1",
+  "description": "php shop ecome framework basic for php",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doanletankiet/php-ecom-framework.git"
+  },
+  "keywords": [
+    "php",
+    "framework"
+  ],
+  "author": "sojou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doanletankiet/php-ecom-framework/issues"
+  },
+  "homepage": "https://github.com/doanletankiet/php-ecom-framework#readme"
+}
